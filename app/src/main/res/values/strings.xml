@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Examen3</string>
+    <string name="btnEnviarRespuesta">Enviar Respuesta</string>
+    <string name="chLog">Mostrar Información por Log</string>
+    <string name="txtRespuesta">Respuesta:</string>
+    <string name="txtPregunta">Pregunta:</string>
+    <string name="swMayor">Es Mayor de edad</string>
+    <string name="rdOtro">Otro</string>
+    <string name="rdMujer">Mujer</string>
+    <string name="rdHombre">Hombre</string>
+    <string name="txtGenero">Género:</string>
+    <string name="editNombrePersona">Nombre persona encuestada</string>
+    <string name="txtTitulo">Titulo de la encuesta</string>
+    <string-array name="straPreguntas1">
+        <item>Lenguaje de programación favorito</item>
+        <item>Época del año favorita</item>
+    </string-array>
+    <string-array name="straPreguntas2">
+        <item>Asignatura favorita</item>
+        <item>Idioma que te gustaría hablar</item>
+    </string-array>
+    <string name="respuesta1">Java</string>
+    <string name="respuesta2">C#</string>
+    <string name="respuesta3">Otro</string>
+    <string name="respuesta4">Verano</string>
+    <string name="respuesta5">Invierno</string>
+    <string name="respuesta6">Otro</string>
+    <string name="respuesta7">Literatura</string>
+    <string name="respuesta8">Física</string>
+    <string name="respuesta9">Otra</string>
+    <string name="respuesta10">Chino</string>
+    <string name="respuesta11">Aleman</string>
+    <string name="respuesta12">Otro</string>
+</resources>
